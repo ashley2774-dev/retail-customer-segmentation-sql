@@ -1,0 +1,8 @@
+pandas
+notebook
+ipykernel
+jupysql
+sqlalchemy
+pymysql
+matplotlib
+MySql
