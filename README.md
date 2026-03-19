@@ -133,7 +133,11 @@ These estimates demonstrate how data-driven segmentation can directly translate 
 
 ## 📷 Dashboard Preview
 
-*(Add screenshots from your Power BI dashboard here)*
+<img width="556" height="304" alt="Customer count by segment" src="https://github.com/user-attachments/assets/bd61c72a-c692-4293-8d96-694916da9d9e" />
+<img width="261" height="137" alt="revenue by customer segment" src="https://github.com/user-attachments/assets/989b7234-18ed-4463-bdfb-f8e7c56243c6" />
+<img width="1258" height="590" alt="customer segmentation by state" src="https://github.com/user-attachments/assets/29903f80-88a7-4e7c-9cc4-7e5458097f8a" />
+<img width="1990" height="590" alt="geographic performance" src="https://github.com/user-attachments/assets/22bb5a82-b017-4785-9948-88f896a8a608" />
+<img width="1986" height="590" alt="segmentation behaviour comparison" src="https://github.com/user-attachments/assets/8876dd10-f11d-4d53-9565-e49e480d4056" />
 
 ---
 
