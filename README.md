@@ -131,34 +131,6 @@ These estimates demonstrate how data-driven segmentation can directly translate 
 
 ---
 
-## 📁 Project Structure
-retail-customer-segmentation-sql/
-│
-├── data/
-│ ├── raw/
-│ └── processed/
-│
-├── notebooks/
-│ ├── data_cleaning.ipynb
-│ ├── feature_engineering_&_segmentation.ipynb
-│ └── business_insights.ipynb
-│ ├── create_schema.sql
-│ └── load_raw_tables.sql
-│
-├── powerbi/
-│ └── retail_customer_segmentation.pbix
-│
-├── visuals/
-│ ├── dashboard_overview.png
-│ ├── segment_distribution.png
-│ ├── revenue_by_segment.png
-│ └── geographic_performance.png
-│
-├── README.md
-└── requirements.txt
-
----
-
 ## 📷 Dashboard Preview
 
 *(Add screenshots from your Power BI dashboard here)*
